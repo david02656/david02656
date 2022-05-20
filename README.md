@@ -1,0 +1,5 @@
+- 👋olá,eu sou @david02656
+- 
+- 👀 meu [email](david.alexandre.freitas@escola.pr.gov.br)
+- 🌱 estou aprendendo linguagem de programação java script e html
+- 
